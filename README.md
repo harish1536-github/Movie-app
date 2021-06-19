@@ -1,3 +1,9 @@
+# Movie-App
+A basic React and Redux base app to list movies and add them to favourites.
+
+## Features
+1. Add a particular movie to Favourites
+# Getting Started with Create React App
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
